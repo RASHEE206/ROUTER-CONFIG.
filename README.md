@@ -23,24 +23,26 @@ Pinged router ↔ PC
 Confirmed routing table with show ip route
 
 
-✅ Conclusion
+### 5. Conclusion
 
 Routers enable communication between networks, not just inside one.
 They are essential for WANs, VLAN routing, and internet access.
 
 
 
-📂 Files
+### 6. Files
 
 router-config.pkt → Packet Tracer topology
 
 router-commands.txt → CLI config
 
 
-🚀 Learning Outcomes
+ ### 7. Learning Outcomes
 
 -Configure router interfaces
+
 -Assign IP addresses to router ports
+
 -Use routers as gateways for PCs
 
 NB:
